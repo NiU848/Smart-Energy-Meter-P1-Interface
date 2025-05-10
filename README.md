@@ -69,4 +69,3 @@ This project provides a **fully open‑source**, **calibratable** and **hack‑f
 ```bash
 git clone https://github.com/NiU848/Smart-Energy-Meter-P1-Interface.git
 cd Smart-Energy-Meter-P1-Interface/firmware
-make flash      # KEIL ULINK 2 required
