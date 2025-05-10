@@ -58,7 +58,7 @@ This project provides a **fully open‑source**, **calibratable** and **hack‑f
 | Sheet | Description |
 |-------|-------------|
 | <img src="docs/img/sch_power.png"  width="220"> | Primary side: mains input, fuse, CT, voltage divider |
-| <img src="docs/img/sch_logic.png"  width="220"> | Logic side: STM32, display, P1 driver |
+| <img src="docs/img/sch_logic.png"  width="220"> | Logic side: STM32, display, P1 interface |
 
 ---
 
