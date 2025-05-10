@@ -32,7 +32,6 @@ This project provides a **fully open‑source**, **calibratable** and **hack‑f
 | Isolation | **NVE IL710,260,STISO** digital isolators + **TRACO TMV‑HI** 3 kV DC/DC |
 | Display | 2.13″ **E‑Ink** (black/white) | zero standby current, daylight readable |
 | Comms | P1 UART (115 200 baud) on **RJ‑12** |
-| Firmware | HAL/CMSIS + STPM3x Eval Lib – open‑source (MIT) |
 
 ---
 
