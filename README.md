@@ -41,7 +41,7 @@ This project provides a **fully open‑source**, **calibratable** and **hack‑f
 
 <p align="center">
   <img src="docs/img/board_top.png"   alt="Top layer 3D"    width="600"><br>
-  <em>Figure 1 – PCB, top side (3D view)</em>
+  <em>Figure 1 – PCB, top side / solder-mask view</em>
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ This project provides a **fully open‑source**, **calibratable** and **hack‑f
 
 <p align="center">
   <img src="docs/img/board_3d.png"     alt="Assembled 3D"  width="600"><br>
-  <em>Figure 3 – Fully assembled board – 3D render</em>
+  <em>Figure 3 – Board 3D render</em>
 </p>
 
 ### Schematics  
